@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioDroneDetection</string>
+    <string name="LAUNCH_RECORDER">com.example.audiodronedetection.RecordActivity</string>
+    <string name="LAUNCH_SHOW">com.example.audiodronedetection.ShowActivity</string>
+
+    <string name="LABEL_MESSAGE">LABEL MESSAGE</string>
+</resources>
